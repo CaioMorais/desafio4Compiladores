@@ -1,5 +1,9 @@
 # desafio4Compiladores
 
+Participantes:
+Caio de Morais - 082180015
+João Guilherme Cabral - 082180011
+Junior Freitas - 082180035
 Análise
 - Definir uma gramática em arquivo texto
 - Ler arquivo com a definição da gramática
